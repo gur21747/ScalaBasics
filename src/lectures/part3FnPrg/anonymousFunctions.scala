@@ -1,12 +1,14 @@
 package lectures.part3FnPrg
 
-class anonymousFunctions extends App {
+object anonymousFunctions extends App {
 
   // anonymous function (LAMBDA)
   val doubler: Int => Int = (x: Int) => x * 2
+  println(doubler(5))
 
   // multiple params in a lambda
   val adder: (Int, Int) => Int = (a: Int, b: Int) => a + b
+  println(adder(5,5))
 
   // no params
   val justDoSomething: () => Int = () => 3
