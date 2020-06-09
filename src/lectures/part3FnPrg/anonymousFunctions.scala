@@ -1,4 +1,9 @@
 package lectures.part3FnPrg
+/*
+  Created by  : Ribhu Kashyap
+  Created on  : 01/06/2020
+  Purpose     : Demonstrate inheritance in Scala
+ */
 
 object anonymousFunctions extends App {
 
