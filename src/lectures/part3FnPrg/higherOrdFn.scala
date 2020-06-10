@@ -2,7 +2,7 @@ package lectures.part3FnPrg
 /*
   Created by  : Ribhu Kashyap
   Created on  : 01/06/2020
-  Purpose     : Demonstrate inheritance in Scala
+  Purpose     : Demonstrate higher order functions in Scala
  */
 
 object higherOrdFn extends App {

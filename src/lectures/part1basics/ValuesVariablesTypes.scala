@@ -3,7 +3,7 @@ package lectures.part1basics
 /*
   Created by  : Ribhu Kashyap
   Created on  : 27/05/2020
-  Purpose     : Initial Creation
+  Purpose     : Values, Variables, Types in Scala
  */
 object ValuesVariablesTypes extends App {
     val x:Int = 42    //The value of x is constant (like static final) and cannot be reassigned

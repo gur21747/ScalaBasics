@@ -2,7 +2,7 @@ package lectures.part2oop
 /*
   Created by  : Ribhu Kashyap
   Created on  : 30/05/2020
-  Purpose     : Initial Creation
+  Purpose     : Objects in Scala
  */
 object Objects extends App {
 

@@ -2,7 +2,7 @@ package lectures.part1basics
 /*
   Created by  : Ribhu Kashyap
   Created on  : 29/05/2020
-  Purpose     : Initial Creation
+  Purpose     : String manipulation in Scala
  */
 import scala.annotation.tailrec
 import scala.util.Random

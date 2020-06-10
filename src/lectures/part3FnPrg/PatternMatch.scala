@@ -2,7 +2,7 @@ package lectures.part3FnPrg
 /*
   Created by  : Ribhu Kashyap
   Created on  : 03/06/2020
-  Purpose     : Demonstrate inheritance in Scala
+  Purpose     : Demonstrate switch case aka match in Scala
  */
 import scala.util.Random
 

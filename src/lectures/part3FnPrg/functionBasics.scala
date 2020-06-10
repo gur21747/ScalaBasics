@@ -2,7 +2,7 @@ package lectures.part3FnPrg
 /*
   Created by  : Ribhu Kashyap
   Created on  : 01/06/2020
-  Purpose     : Demonstrate inheritance in Scala
+  Purpose     : Demonstrate function operations in Scala
  */
 trait myFunction[A,B]{
   def apply(element :A):B

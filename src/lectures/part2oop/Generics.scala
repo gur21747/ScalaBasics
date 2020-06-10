@@ -5,7 +5,7 @@ import lectures.part2oop.Objects.Employee
 /*
   Created by  : Ribhu Kashyap
   Created on  : 31/05/2020
-  Purpose     : Demonstrate inheritance in Scala
+  Purpose     : Demonstrate Generic datatype in Scala
  */
 object Generics extends App {
   class myGenericList[Type]{    //Type is a generic datatype

@@ -2,7 +2,7 @@ package lectures.part2oop
 /*
   Created by  : Ribhu Kashyap
   Created on  : 30/05/2020
-  Purpose     : Initial Creation
+  Purpose     : Infix and  Prefix method notations
  */
 
 class Car(val engineCC:Int, val color:String, val fuelType:String){

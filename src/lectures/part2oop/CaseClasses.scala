@@ -2,7 +2,7 @@ package lectures.part2oop
 /*
   Created by  : Ribhu Kashyap
   Created on  : 31/05/2020
-  Purpose     : Demonstrate inheritance in Scala
+  Purpose     : Demonstrate case classes in Scala
  */
 object CaseClasses extends App {
 

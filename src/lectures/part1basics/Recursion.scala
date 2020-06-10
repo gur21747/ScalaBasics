@@ -2,7 +2,7 @@ package lectures.part1basics
 /*
   Created by  : Ribhu Kashyap
   Created on  : 28/05/2020
-  Purpose     : Initial Creation
+  Purpose     : Recursive functions in Scala
  */
 import scala.annotation.tailrec
 

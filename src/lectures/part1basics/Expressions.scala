@@ -3,7 +3,7 @@ package lectures.part1basics
 /*
   Created by  : Ribhu Kashyap
   Created on  : 27/05/2020
-  Purpose     : Initial Creation
+  Purpose     : Expressions in Scala
  */
 object Expressions extends App {
       val x = 1+2   //Expression

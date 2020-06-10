@@ -2,7 +2,7 @@ package lectures.part3FnPrg
 /*
   Created by  : Ribhu Kashyap
   Created on  : 02/06/2020
-  Purpose     : Demonstrate inheritance in Scala
+  Purpose     : Demonstrate map, flatMap and filter in Scala
  */
 object MapFlatmapFilter extends  App{
 

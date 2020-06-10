@@ -3,7 +3,7 @@ package lectures.part1basics
 /*
   Created by  : Ribhu Kashyap
   Created on  : 28/05/2020
-  Purpose     : Initial Creation
+  Purpose     : Functions in Scala
  */
 object Functions extends App {
 
