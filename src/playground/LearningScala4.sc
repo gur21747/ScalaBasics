@@ -30,8 +30,8 @@
  // It's a singly-linked list under the hood.
  
  val shipList = List("Enterprise", "Defiant", "Voyager", "Deep Space Nine")
-                                                  //> shipList  : List[String] = List(Enterprise, Defiant, Voyager, Deep Space Nin
-                                                  //| e)
+  println(s"There are ${shipList.size} ships, namely : $shipList")
+
  
  // Access individual members using () with ZERO-BASED index (confused yet?)
  println(shipList(1))                             //> Defiant
@@ -106,12 +106,11 @@ println(archersShip)                              //> Unknown
 // because 9 is evenly divisible by 3.) Do this first by iterating through all the items in the list and testing each
 // one as you go. Then, do it again by using a filter function on the list instead.
 
-  val list1 = for{      //times will be a list of timestamps calculated by the difference
-    it <- 1 to 20       //between system time before write and after write.
+  val list1 = for{
+    it <- 1 to 20
    } yield {it}
   println(list1)
   println(list1.filter(_ % 3 == 0))
-
 
 
 
